@@ -1,0 +1,12 @@
+---
+key: valentin_deleplace
+name: Valentin Deleplace
+feature: false
+photoUrl: https://cloud.google.com/static/developers/advocates/images/valentin-deleplace/profile-image_2x.jpg
+city: Paris, France
+company: Google
+socials:
+  linkedin: deleplacevalentin
+  twitter: val_deleplace
+  github: Deleplace
+bio: Valentin is a developer of cloud backends. He's into performance, algorithms, DB, UX, DX, and Go
